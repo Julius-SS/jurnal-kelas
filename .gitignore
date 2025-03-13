@@ -1,0 +1,23 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system folders
+AppData/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Ignore personal configuration files
+NTUSER.DAT
+NTUSER.DAT*
+*.log
+*.ini
